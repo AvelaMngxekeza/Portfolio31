@@ -1,0 +1,452 @@
+* {
+    padding: 0px;
+    margin: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #093a3e;
+}
+
+
+
+.logo {
+    position: relative;
+    margin-left: 50px; 
+    margin-top: 50px; 
+}
+
+.nav {
+    position: relative;
+    margin-left: 580px;
+    margin-top: -60px;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item {
+    margin: 5 100px;
+}
+
+.name55 {
+    position: relative;
+    margin-left: 700px;
+    margin-top: 250px;
+
+}
+
+.span {
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.h2 {
+    font-size: 40px;
+    font-weight: bolder;
+    color: white;
+}
+
+.p {
+    font-size: 15px;
+    font-weight: lighter;
+    color: white; 
+}
+
+
+.button {
+    height: 37px;
+    width: 262px;
+    background-color: #3AAFB9;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 10px;
+}
+
+.buttontext {
+    color: white;
+}
+
+.page2 {
+    position: relative;
+    margin-top: 300px;
+    margin-left: 650px;
+    font-family: Montserrat;
+    font-size: 70px;
+    font-weight: bolder;
+    color: #3AAFB9;
+}
+
+.flip {
+    position: relative;
+    margin-top: 300px;
+    margin-left: 700px;
+    font-family: Montserrat;
+    font-weight: bolder;
+    color: #3AAFB9;
+    transform: scaleX(-50);
+}
+
+.image {
+    position: relative;
+    margin-left: 570px;
+    margin-top: 300px;
+}
+
+.p1 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: Montserrat;
+    font-size: 25px;
+    color: white
+}
+
+.p2 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: Montserrat;
+    font-size: 15px;
+    color: white
+}
+
+.p3 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: Montserrat;
+    font-size: 15px;
+    color: white
+}
+
+.p4 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: Montserrat;
+    font-size: 15px;
+    color: white
+}
+
+.p5 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: Montserrat;
+    font-size: 15px;
+    color: white
+}
+
+.p6 {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 50px;
+    font-family: Montserrat;
+    font-size: 15px;
+    color: white
+}
+
+.name {
+    position: relative;
+    margin-left: 100px;
+    margin-top: 150px;
+    font-size: 30px;
+    font-weight: bold;
+    color: white;
+}
+
+.name .span {
+    font-weight: lighter;
+    font-size: 15px;
+}
+
+.page3 {
+    position: relative;
+    margin-top: 300px;
+    margin-left: 650px;
+    font-family: Montserrat;
+    font-size: 70px;
+    font-weight: bolder;
+    color: #3AAFB9;
+}
+
+.nav2 {
+    position: relative;
+    margin-left: 500px;
+    margin-top: 80px;
+    font-family: Montserrat;
+    font-size: 25px;
+    font-weight: bold;
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-item {
+    margin: 30 100px;
+}
+
+.container {
+    display: flex;
+    grid-template-columns: 100px 200px;
+    grid-template-rows: 50px;
+    grid-gap:10px;
+    position: relative;
+    margin-left: 500px;
+}
+
+
+.page4 {
+    position: relative;
+    margin-top: 300px;
+    margin-left: 650px;
+    font-family: Montserrat;
+    font-size: 70px;
+    font-weight: bolder;
+    color: #3AAFB9;
+}
+
+.grid-container1 {
+    display: grid;
+    grid-template-columns: 5px;
+    grid-gap:10px;
+}
+
+.rectangle1 {
+   width: 578px; 
+   height: 39px;
+   background-color: white;
+   position: relative;
+   margin-left: 50px;
+   margin-top: 200px;
+}
+
+
+.rectangleblue1 {
+    background-color: #64e9ee;
+    width: 478px;
+    height: 39px;
+}
+
+.rectangleblue2 {
+    background-color: #64e9ee;
+    width: 534px;
+    height: 39px;
+}
+
+.rectangleblue3 {
+    background-color: #64e9ee;
+    width: 379px;
+    height: 39px;
+}
+
+.rectangleblue4 {
+    background-color: #64e9ee;
+    width: 498px;
+    height: 39px;
+}
+
+.rectangleblue5 {
+    background-color: #64e9ee;
+    width: 478px;
+    height: 39px;
+}
+
+.grid-container2 {
+    display: grid;
+    grid-template-columns: 5px;
+    grid-gap:10px;
+    position: relative;
+    margin-left: 700px;
+    margin-top: -1095px;
+}
+
+.rectanglered1 {
+    background-color: #64e9ee;
+    width: 379px;
+    height: 39px;
+}
+
+.rectanglered2 {
+    background-color: #64e9ee;
+    width: 379px;
+    height: 39px;
+}
+
+.rectanglered3 {
+    background-color: #64e9ee;
+    width: 379px;
+    height: 39px;
+}
+
+.rectanglered4 {
+    background-color: #64e9ee;
+    width: 139px;
+    height: 39px;
+}
+
+.rectanglered5 {
+    background-color: #64e9ee;
+    width: 478px;
+    height: 39px;
+}
+
+.most {
+    position: relative;
+    padding-left: 20px;
+    padding-top: 10px;
+    color: white;
+}
+
+.contact {
+    position: relative;
+    margin-top: 300px;
+    margin-left: 300px;
+    font-family: Montserrat;
+    font-size: 70px;
+    font-weight: bolder;
+    color: #3AAFB9;
+    height: 50px;
+    width: 500px;
+}
+
+.rectangleblack {
+    background-color: black;
+    height: 292px;
+    width: 369px;
+    position: relative;
+    margin-left: 50px;
+    margin-top: 100px;
+}
+
+.rectanglewhite {
+    background-color: white;
+    height: 262px;
+    width: 349px;
+    position: relative;
+    margin-left: 0px;
+    margin-top: -0px;
+}
+
+.menu {
+    position: relative;
+    margin-left: 1490px;
+    margin-top: -100px;
+}
+
+.img1 {
+    width: 378px;
+    height: 378px;
+    position: relative;
+    margin-left: 100px;
+    margin-top: 250px;
+}
+
+
+.img2 {
+    width: 378px;
+    height: 378px;
+    position: relative;
+    margin-left: 670px;
+    margin-top: -380px;
+}
+
+.img3 {
+    width: 378px;
+    height: 378px;
+    position: relative;
+    margin-left: 1250px;
+    margin-top: -380px;
+}
+
+.h1 {
+    position: relative;
+    margin-left: 120px;
+    margin-top: -100px;
+    color: white;
+}
+
+.vs {
+    position: relative;
+    margin-left: 80px;
+    color: white;
+    font-size: 30px;
+}
+
+.vs1 {
+    position: relative;
+    margin-left: 110px;
+    color: white;
+    font-size: 30px;
+}
+
+.vs2 {
+    position: relative;
+    margin-left: 100px;
+    color: white;
+    font-size: 30px;
+}
+
+.button2 {
+    height: 37px;
+    width: 200px;
+    background-color: #3AAFB9;
+    border: none;
+    border-radius: 5px;
+    position: relative;
+    margin-top: 50px;
+    margin-left: 25px;
+}
+
+.style-input {
+    position: relative;
+    margin-left: 600px;
+    margin-top: 350px;
+    height: 30px;
+    width: 478px;
+    border: none;
+}
+
+.style-input1 {
+    position: relative;
+    margin-left: 600px;
+    margin-top: 50px;
+    height: 30px;
+    width: 478px;
+    border: none;
+}
+.style-input2 {
+    position: relative;
+    margin-left: 600px;
+    margin-top: 50px;
+    height: 30px;
+    width: 478px;
+    border: none;
+}
+
+.navy {
+    height: 44px;
+    width: 257px;
+    background-color: black;
+    border: none;
+    border-radius: 10px;
+    position: relative;
+    margin-left: 600px;
+}
+
+.share {
+    width: 257px;
+    height: 28px;
+    flex-shrink: 0;
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
